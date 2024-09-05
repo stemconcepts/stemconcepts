@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stemconcepts
-- 👀 I’m currently building a turn based fantasy dungeon crawler, might create tools out of it but who knows
+- 👀 I make stuff to learn and for fun
 
 <!---
 stemconcepts/stemconcepts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
